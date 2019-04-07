@@ -121,3 +121,8 @@ nav a {
   background-color: transparent;
   color: #e00095;
 }
+
+.center {
+  margin: 0 auto;
+  
+}
